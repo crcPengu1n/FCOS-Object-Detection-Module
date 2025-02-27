@@ -4,6 +4,15 @@
 
 This Python module implements the FCOS, a one-stage object detector that does not rely on anchor boxes. Instead, it predicts the class and location of objects directly from the features at different levels of the feature pyramid network (FPN). This approach simplifies the architecture and improves efficiency, making it suitable for real-time applications.
 
+## Results
+
+#### detection examples
+![Content Image](eg1.png)
+![Content Image](eg2.png)
+![Content Image](eg3.png)
+![Content Image](eg4.png)
+![Content Image](eg5.png)
+
 ## File Structure
 
 - `fcos.py`: Main module file containing all classes and functions for the FCOS detector.
