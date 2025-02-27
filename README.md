@@ -16,7 +16,8 @@ This Python module implements the FCOS, a one-stage object detector that does no
 ## File Structure
 
 - `fcos.py`: Main module file containing all classes and functions for the FCOS detector.
-- `cs639/`: Directory containing support modules like data loading utilities.
+- `tools/`: Directory containing support modules like data loading utilities.
+- 'fcos.ipynb': Run the demo of fcos.
 
 ## Classes and Functions
 
